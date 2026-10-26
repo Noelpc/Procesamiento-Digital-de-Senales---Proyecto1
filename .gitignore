@@ -1,0 +1,7 @@
+eco
+__pycache__/
+*.pyc
+article/*.aux
+article/*.log
+article/pg-*.png
+audio/*.wav
