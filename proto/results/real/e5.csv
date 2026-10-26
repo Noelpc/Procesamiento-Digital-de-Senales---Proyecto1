@@ -1,0 +1,13 @@
+genre,dur_s,ok_rate
+clasica_brahms,15,1
+clasica_brahms,30,1
+clasica_brahms,45,1
+folk_fishin,15,0
+folk_fishin,30,1
+folk_fishin,45,1
+folk_fishin,60,1
+folk_fishin,90,1
+jazz_vibeace,15,0
+jazz_vibeace,30,1
+jazz_vibeace,45,1
+jazz_vibeace,60,1

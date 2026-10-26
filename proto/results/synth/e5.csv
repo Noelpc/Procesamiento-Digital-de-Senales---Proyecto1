@@ -1,0 +1,13 @@
+genre,dur_s,ok_rate
+clasica,30,0.0
+rock,30,1.0
+electronica,30,1.0
+voz,30,0.0
+clasica,90,0.67
+rock,90,1.0
+electronica,90,1.0
+voz,90,0.67
+clasica,180,1.0
+rock,180,1.0
+electronica,180,1.0
+voz,180,1.0

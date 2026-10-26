@@ -1,0 +1,16 @@
+genre,snr_db,rec,msg_ok
+clasica_brahms,inf,0.9899,1
+clasica_brahms,50,0.9835,1
+clasica_brahms,40,0.9723,1
+clasica_brahms,30,0.9484,1
+clasica_brahms,20,0.8654,0
+folk_fishin,inf,0.9766,1
+folk_fishin,50,0.9745,1
+folk_fishin,40,0.9574,1
+folk_fishin,30,0.9409,1
+folk_fishin,20,0.8664,1
+jazz_vibeace,inf,0.9638,1
+jazz_vibeace,50,0.9127,0
+jazz_vibeace,40,0.8728,0
+jazz_vibeace,30,0.8164,0
+jazz_vibeace,20,0.735,0
